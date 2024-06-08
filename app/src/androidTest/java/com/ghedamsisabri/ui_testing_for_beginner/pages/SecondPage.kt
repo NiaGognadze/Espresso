@@ -20,5 +20,7 @@ object SecondPage {
 
     fun clickOnBackButton() {
         onView((backButton)).perform(click())
+
+        //something
     }
 }
