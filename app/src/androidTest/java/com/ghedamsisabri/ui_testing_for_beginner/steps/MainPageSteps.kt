@@ -13,5 +13,7 @@ object MainPageSteps {
 
     fun clickOnNextButton() {
         MainPage.clickOnNextButton()
+
+        //comment
     }
 }
